@@ -1,6 +1,6 @@
-# SushiSwap
+# DigestSwap
 
-https://sushi.com/
+https://dex.thedigest.online/
 
 ## Deployed Contracts
 
